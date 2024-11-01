@@ -25,3 +25,4 @@ Usage
 *Sign up for a new account or log in with existing credentials.
 *Start chatting with other users in real time.
 *Manage your profile, including updating your username and profile picture.
+![img alt](https://github.com/Anuragpandey26/chatapp/blob/f0892c56ded4680ea1f742bface52c8c54e61de4/Screenshot%20(19).png)
