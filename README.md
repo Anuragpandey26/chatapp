@@ -26,3 +26,4 @@ Usage
 *Start chatting with other users in real time.
 *Manage your profile, including updating your username and profile picture.
 ![img alt](https://github.com/Anuragpandey26/chatapp/blob/f0892c56ded4680ea1f742bface52c8c54e61de4/Screenshot%20(19).png)
+![img alt](https://github.com/Anuragpandey26/chatapp/blob/55a8f70a608e05cea8ec4bc6ff52a6b3afaef568/Screenshot%20(21).png)
